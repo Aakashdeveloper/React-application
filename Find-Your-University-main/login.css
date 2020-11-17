@@ -1,0 +1,97 @@
+.btnRX{
+    position: absolute;
+    top: 200px;
+    right: 50px;
+    padding: 10px;
+    background: black;
+    color: white;
+    font-size: 20px;
+    box-shadow: 0px 5px 13px black;
+    
+}
+.btnRX:hover{
+    background: rgb(107, 240, 107);
+    color: black;
+    transform: scaleX(1.1);
+}
+.contactNx{
+    color: black;
+    text-align: center;
+    height: 50px;
+}
+.emailNx{
+    position: absolute;
+    top: 200px;
+    left: 200px;
+}
+.containerRX{
+    background: black;
+    height: 300px;
+    width: 1000px;
+    color: white;
+    padding: 20px;
+    box-shadow: 0px 10px 20px black;
+}
+.nameNx{
+    font-size: 30px;
+    margin-bottom: 50px;   
+}
+.formNX{
+    position: absolute;
+    top: 80px;
+    width: 200px;
+    left: 20px;
+    font-size: 30px;
+    color: black;
+}
+.emailNX{
+    position: absolute;
+    left: 430px;
+    top: 20px;
+    font-size: 30px;
+    margin-bottom: 50px;   
+}
+.form-controlNx{
+    position: absolute;
+    left: 350px;
+    width: 250px;
+    font-size: 30px;
+    color: black;
+}
+.textNX{
+    position: absolute;
+    left: 800px;
+    top: 20px;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+.controlNx{
+    position: absolute;
+    top: 80px;
+    width: 250px;
+    left: 720px;
+    font-size: 20px;
+    color: black;
+}
+.btnNX{
+    position: absolute;
+    left: 400px;
+    top: 200px;
+    font-size: 30px;
+    background: white;
+    color: black;
+    outline-style: none;
+}
+.btnNX:hover{
+    background: black;
+    color: white;
+    outline-style: none;
+    transform: scale(1.2);
+}
+.mapX{
+    position: absolute;
+    top: 600px;
+    left: 400px;
+    margin-bottom: 30px;
+    box-shadow: 0px 5px 13px black;
+}

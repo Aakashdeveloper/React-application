@@ -1,0 +1,92 @@
+db.city.insertMany([
+    {
+        "_id":1,
+        "city_name":"Delhi",
+        "city":1,
+        "state_name" :"Delhi"
+    },
+    {
+        "_id": 2,
+        "city_name":"Coimbatore",
+        "city": 2,
+        "state_name":"Tamil Nadu"
+    },
+    {
+        "_id": 3,
+        "city_name":"Tiruchirappalli",
+        "city": 3,
+        "state_name":"Tamil Nadu"
+    },
+    {
+        "_id": 4,
+        "city_name":"Chennai",
+        "city": 4,
+        "state_name":"Tamil Nadu"
+    },
+    {
+        "_id": 5,
+        "city_name":"Thanjavur",
+        "city": 5,
+        "state_name": "Tamil Nadu"
+    },
+    {
+        "_id": 6,
+        "city_name":"Kancheepuram",
+        "city": 6,
+        "state_name": "Tamil Nadu"
+    },
+    {
+        "_id": 7,
+        "city_name":"Visakhapatnam",
+        "city": 7,
+        "state_name": "Andhra Pradesh"
+    },
+    {
+        "_id": 8,
+        "city_name":"Guntur",
+        "city": 8,
+        "state_name": "Andhra Pradesh"
+    },
+    {
+        "_id": 9,
+        "city_name":"Kurnool",
+        "city": 9,
+        "state_name": "Andhra Pradesh"
+    },
+    {
+        "_id": 10,
+        "city_name":"Bangalore",
+        "city": 10,
+        "state_name": "Karnataka"
+    },
+    {
+        "_id": 11,
+        "city_name":"Surathkal",
+        "city": 11,
+        "state_name": "Karnataka"
+    },
+    {
+        "_id": 12,
+        "city_name":"Bhopal",
+        "city": 12,
+        "state_name": "Madhya Pradesh"
+    },
+    {
+        "_id": 13,
+        "city_name":"Jabalpur",
+        "city": 13,
+        "state_name": "Madhya Pradesh"
+    },
+    {
+        "_id": 14,
+        "city_name":"Ujjain",
+        "city": 14,
+        "state_name": "Madhya Pradesh"
+    },
+    {
+        "_id": 15,
+        "city_name":"Gwalior",
+        "city": 15,
+        "state_name": "Madhya Pradesh"
+    }
+])

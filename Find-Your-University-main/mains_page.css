@@ -1,0 +1,86 @@
+.picplace{
+    overflow: hidden;
+    background: rgb(0, 0, 0);
+    height: 100vh;
+    width: 1349px;
+    left: 4px;
+}
+#texthead{
+    position: absolute;
+    color: red;
+    left: 200px;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#options{
+    position: relative;
+    margin: 30px;
+    top: 200px;
+    left: 200px;
+    height: 30px;
+    width: 400px;
+    box-shadow: 30px 30px 33px black;
+}
+.quickContainer{
+    float: left;
+    margin-left:120px;
+}
+.boxtextone{
+    position: relative;
+    float: left;
+    margin-left:40px;
+    margin-bottom:50px;
+    top: 300px;
+    background: cornflowerblue;
+    width: 500px;
+    height: 300px;
+    margin-bottom: 50px;
+    box-shadow: 20px 30px 30px black;
+}
+.boxtext{
+    position: absolute;
+    float:left;
+    margin-right:30px;
+    margin-bottom:30px;
+}
+.boxhead{
+    position: absolute;
+    float: right;
+    top: 700px;
+    left: 300px;
+    margin-left:115px;
+    margin-top:50px;
+    font-size: 70px;
+}
+.name{
+    color: white;
+    text-decoration: none;
+}
+.name:hover{
+    color: black;
+    text-decoration: none;
+}
+.context-two{
+    position: absolute;
+    top: 20px;
+    left: 100px;
+    margin-bottom: 70px;
+    font-size: 30px;
+    background: cornflowerblue;
+    transition: 1s;
+}
+.context-two:hover{
+    transition: 1s;
+    background: cornflowerblue;
+    text-shadow: 20px 20px 20px black;
+    transform: scale(1.1);
+}
+.para{
+    position: relative;
+    font-size: 30px;
+    font-weight: 700;
+    padding: 50px;
+    margin: 20px;
+    top: 50px;
+    color: blue;
+}

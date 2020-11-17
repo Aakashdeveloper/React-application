@@ -1,0 +1,36 @@
+@import './variables';
+
+.signup__form {
+  .form__body {
+    p {
+      color: $main-color;
+      font-size: 20px;
+      font-weight: 900;
+    }
+    .form-group {
+      label {
+        font-weight: 500;
+        font-size: 18px;
+      }
+    }
+    .form__btn {
+      width: 100%;
+      height: 48px;
+      line-height: 16px;
+      text-align: center;
+      border: 0px none;
+      border-radius: 3px;
+      font-size: 18px;
+      letter-spacing: 2px;
+      transition-duration: 33ms;
+      background-color: $main-color;
+      color: $primary-color;
+      cursor: pointer;
+    }
+    .form__btn:hover {
+      transform: scale(1.04);
+      background-color: $primary-color;
+      color: $main-color;
+    }
+  }
+}

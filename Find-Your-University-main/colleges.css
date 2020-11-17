@@ -1,0 +1,76 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.containRN{
+    position: relative;
+    float: left;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    left: 150px;
+    height: 250px;
+    width: 1000px;
+    background: rgb(9, 169, 197);
+    box-shadow: 0px 10px 15px black;
+}
+.containRN h3{
+    position: absolute;
+    left: 160px;
+}
+.cllg_name{
+    position: absolute;
+    top: 80px;
+    font-size: 30px;
+}
+.cllg_nameRx{
+    color: white;
+    text-decoration: none;
+}
+.city_name{
+    position: absolute;
+    top: 80px;
+    left: 500px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.stateX{
+    position: absolute;
+    top: 50px;
+    left: 2px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.ownership_name{
+    position: absolute;
+    top: 120px;
+    left: 700px;
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.ownership_name h2{
+    position: absolute;
+    left: 10px;
+    top: -50px;
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    text-decoration: none;
+}
+.collegedetails{
+    background: rgb(241, 165, 165);
+    width: 1320px;
+    height: 100px;
+}
+.collegedetails h2{
+    position: absolute;
+    left: 160px;
+    font-size: 50px;
+
+}

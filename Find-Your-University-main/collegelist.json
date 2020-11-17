@@ -1,0 +1,128 @@
+db.collegelist.insertMany([
+    {
+        "_id": "1",
+        "name": "Amrita Vishwa Vidyapeetham",
+        "city_name": "Coimbatore",
+        "city": "2",
+    },
+    {
+        "_id": "2",
+        "name": "National Institute of Technology",
+        "city_name": "Tiruchirappalli",
+        "city": "3"
+    },
+    {
+        "_id": "3",
+        "name": "SRM Institute of Science and Technology",
+        "city_name": "Chennai",
+        "city": "4"
+    },
+    {
+        "_id": "4",
+        "name": "BS Abdur Rahman Crescent Institute of Science and Technology",
+        "city_name": "Chennai",
+        "city": "4"
+    },
+    {
+        "_id": "5",
+        "name": "Indian Institute of Food Processing Technology",
+        "city_name": "Thanjavur",
+        "city": "5"
+    },
+    {
+        "_id": "6",
+        "name": "Indian Institute of Information Technology Design and Manufacturing",
+        "city_name": "Kancheepuram",
+        "city": "6"
+    },
+    {
+        "_id": "7",
+        "name": "GITAM University",
+        "city_name": "Visakhapatnam",
+        "city": "7"
+    },
+    {
+        "_id": "8",
+        "name": "Vignan's Foundation for Science Technology and Research",
+        "city_name": "Guntur",
+        "city": "8"
+    },
+    {
+        "_id": "9",
+        "name": "Indian Institute of Information Technology Design and Manufacturing",
+        "city_name": "Kurnool",
+        "city": "9"
+    },
+    {
+        "_id": "10",
+        "name": "National Institute of Technology",
+        "city_name": "Kurnool",
+        "city": "9"
+    },
+    {
+        "_id": "11",
+        "name": "PES University",
+        "city_name": "Bangalore",
+        "city": "10"
+    },
+    {
+        "_id": "12",
+        "name": "CMR Institute of Technology",
+        "city_name": "Bangalore",
+        "city": "10"
+    },
+    {
+        "_id": "13",
+        "name": "REVA University",
+        "city_name": "Bangalore",
+        "city": "10"
+    },
+    {
+        "_id": "14",
+        "name": "National Institute of Technology",
+        "city_name": "Surathkal",
+        "city": "11"
+    },
+    {
+        "_id": "15",
+        "name": "Indraprastha Institute of Information Technology",
+        "city_name": "Delhi",
+        "city": "1"
+    },
+    {
+        "_id": "16",
+        "name": "Indira Gandhi Delhi Technical University for Women",
+        "city_name": "Delhi",
+        "city": "1"
+    },
+    {
+        "_id": "17",
+        "name": "National Institute of Technology",
+        "city_name": "Delhi",
+        "city": "1"
+    },
+    {
+        "_id": "18",
+        "name": "Maulana Azad National Institute of Technology",
+        "city_name": "Bhopal",
+        "city": "12"
+    },
+    {
+        "_id": "19",
+        "name": "Indian Institute of Information Technology Design and Manufacturing",
+        "city_name": "Jabalpur",
+        "city": "13"
+    },
+    {
+        "_id": "20",
+        "name": "Avantika University",
+        "city_name": "Ujjain",
+        "city": "14"
+    },
+    {
+        "_id": "21",
+        "name": "ITM University",
+        "city_name": "Gwalior",
+        "city": "15"
+    },
+])

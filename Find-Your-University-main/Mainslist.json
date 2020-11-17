@@ -1,0 +1,877 @@
+db.mainslist.insertMany([
+    {
+        "_id": "1",
+        "name": "Amrita Vishwa Vidyapeetham",
+        "city_name": "Coimbatore",
+        "city": "2",
+        "state": "Tamil Nadu",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.amrita.edu%2Fcampus%2Fcoimbatore%2Fabout&psig=AOvVaw3i_giGA3JLxGl6uhjqVs0y&ust=1603686327699000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCZ5YDzzuwCFQAAAAAdAAAAABAD",
+        "nirf": 20,
+        "upr": 133,
+        "cutoff": 10500,
+        "gender": "Men",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "6",
+            "name": "Biotechnology Engineering",
+            "fees": "9 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "2",
+        "name": "National Institute of Technology",
+        "city_name": "Tiruchirappalli",
+        "city": "3",
+        "state": "Tamil Nadu",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.nitt.edu%2Fhome%2Fstudents%2Ffacilitiesnservices%2Ftp%2F&psig=AOvVaw0KdpfiHCbBwa075ou8_E3g&ust=1603687785780000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNC8irz4zuwCFQAAAAAdAAAAABAD",
+        "nirf": 9,
+        "upr": 23,
+        "cutoff": 2500,
+        "gender": "coed",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "8 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "11 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "8 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "3",
+        "name": "SRM Institute of Science and Technology",
+        "city_name": "Chennai",
+        "city": "4",
+        "state": "Tamil Nadu",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.thenewsminute.com%2Farticle%2Fsrm-institute-science-and-technology-releases-engineering-rank-list-130496&psig=AOvVaw12cjunhVdj189Tr3ff1o9S&ust=1603687891302000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDbt-_4zuwCFQAAAAAdAAAAABAD",
+        "nirf": 41,
+        "upr": 93,
+        "cutoff": 25000,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Civil Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "6",
+            "name": "Biotechnology Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "7",
+            "name": "Chemical Engineering",
+            "fees": "11 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "4",
+        "name": "BS Abdur Rahman Crescent Institute of Science and Technology",
+        "city_name": "Chennai",
+        "city": "4",
+        "state": "Tamil Nadu",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FBS-Abdur-Rahman-Crescent-Institute-of-Science-and-Technology-176498525784951%2Freviews%2F&psig=AOvVaw1lz633HmM41pceCP_Lj9zP&ust=1603687929227000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPD_nYX5zuwCFQAAAAAdAAAAABAD",
+        "nirf": 123,
+        "upr": 193,
+        "cutoff": 55000,
+        "gender": "Male",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "14 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "15 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "11 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "6",
+            "name": "Biotechnology Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "7",
+            "name": "Chemical Engineering",
+            "fees": "10 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "5",
+        "name": "Indian Institute of Food Processing Technology",
+        "city_name": "Thanjavur",
+        "city": "5",
+        "state": "Tamil Nadu",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.justdial.com%2FThanjavur%2FIndian-Institute-Of-Food-Processing-Technology-Near-Airport-Thanjavur-Government-College%2F9999P4362-4362-110505163959-Y4T2_BZDET&psig=AOvVaw14OGK7eMewgdYRXZN6YrJ8&ust=1603687982450000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKCI2pj5zuwCFQAAAAAdAAAAABAD",
+        "nirf": 74,
+        "upr": 53,
+        "cutoff": 7500,
+        "gender": "coed",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "8 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "11 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "8 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "6",
+        "name": "Indian Institute of Information Technology Design and Manufacturing",
+        "city_name": "Kancheepuram",
+        "city": "6",
+        "state": "Tamil Nadu",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.collegepravesh.com%2Fengineering-colleges%2Fiiitdm-kancheepuram%2F&psig=AOvVaw07nQCaS3DMVyEBAKFuTM__&ust=1603688037663000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIjV5rb5zuwCFQAAAAAdAAAAABAD",
+        "nirf": 182,
+        "upr": 103,
+        "cutoff": 12500,
+        "gender": "coed",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "8 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "11 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "8 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "7",
+        "name": "GITAM University",
+        "city_name": "Visakhapatnam",
+        "city": "7",
+        "state": "Andhra Pradesh",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fb-tech%2Farticles%2Fwhy-join-gitam-university-blogId-15417&psig=AOvVaw0rvb_SNpGIBxwZU4z8pMse&ust=1603688077988000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDxxtX5zuwCFQAAAAAdAAAAABAS",
+        "nirf": 58,
+        "upr": 293,
+        "cutoff": 35000,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "15 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "14 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "6",
+            "name": "Chemical Engineering",
+            "fees": "8 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "8",
+        "name": "Vignan's Foundation for Science Technology and Research",
+        "city_name": "Guntur",
+        "city": "8",
+        "state": "Andhra Pradesh",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Funiversity%2Fvignan-s-foundation-for-science-technology-and-research-guntur-21507&psig=AOvVaw3SQ4yAEN0HVqJE1jfRk-DP&ust=1603688194424000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKif3fr5zuwCFQAAAAAdAAAAABAD",
+        "nirf": 112,
+        "upr": 152,
+        "cutoff": 28500,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "8 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "11 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "8 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "9",
+        "name": "Indian Institute of Information Technology Design and Manufacturing",
+        "city_name": "Kurnool",
+        "city": "9",
+        "state": "Andhra Pradesh",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.collegepravesh.com%2Fengineering-colleges%2Fiiitdm-kurnool%2F&psig=AOvVaw1s0yvWG9YBVfBrP21_fHvB&ust=1603688220940000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCk-Yv6zuwCFQAAAAAdAAAAABAD",
+        "nirf": 118,
+        "upr": 293,
+        "cutoff": 75000,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "6",
+            "name": "Biotechnology Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "7",
+            "name": "Chemical Engineering",
+            "fees": "12 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "10",
+        "name": "National Institute of Technology",
+        "city_name": "Kurnool",
+        "city": "9",
+        "state": "Andhra Pradesh",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.getmyuni.com%2Fcollege%2Fnational-institute-of-technology-nit-rourkela&psig=AOvVaw06uTfIi7KiOWQxWMvOstrQ&ust=1603690747787000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDIi-SDz-wCFQAAAAAdAAAAABAD",
+        "nirf": 58,
+        "upr": 83,
+        "cutoff": 10000,
+        "gender": "coed",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "8 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "8 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "7",
+            "name": "Chemical Engineering",
+            "fees": "10 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "11",
+        "name": "PES University",
+        "city_name": "Bangalore",
+        "city": "10",
+        "state": "Karnataka",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.getmyuni.com%2Fcollege%2Fpes-university-pesu-bangalore&psig=AOvVaw1beTbgPNlYL93GRTYC-FYH&ust=1603690865157000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIC3nqyEz-wCFQAAAAAdAAAAABAD",
+        "nirf": 94,
+        "upr": 143,
+        "cutoff": 35925,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "6",
+            "name": "Biotechnology Engineering",
+            "fees": "12 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "12",
+        "name": "CMR Institute of Technology",
+        "city_name": "Bangalore",
+        "city": "10",
+        "state": "Karnataka",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fcmr-institute-of-technology-medchal-hyderabad-46220&psig=AOvVaw0APz9PY4glZYQ_JcFidVE1&ust=1603691026697000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjH7sGEz-wCFQAAAAAdAAAAABAD",
+        "nirf": 94,
+        "upr": 143,
+        "cutoff": 35925,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "13",
+        "name": "REVA University",
+        "city_name": "Bangalore",
+        "city": "10",
+        "state": "Karnataka",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.iesonline.co.in%2Freva-university%2F&psig=AOvVaw28XeiHWLIYcoUOXvl-yP5J&ust=1603691054035000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCLDd_9mEz-wCFQAAAAAdAAAAABAK",
+        "nirf": 63,
+        "upr": 90,
+        "cutoff": 9525,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "10 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "14",
+        "name": "National Institute of Technology",
+        "city_name": "Surathkal",
+        "city": "11",
+        "state": "Karnataka",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.facebook.com%2FNITKarnataka%2F&psig=AOvVaw2TC8QMtPEJVoZSpRe4cCtC&ust=1603691121017000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjTgf6Ez-wCFQAAAAAdAAAAABAD",
+        "nirf": 58,
+        "upr": 83,
+        "cutoff": 10000,
+        "gender": "coed",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "8 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "8 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "6",
+            "name": "Chemical Engineering",
+            "fees": "10 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "15",
+        "name": "Indraprastha Institute of Information Technology",
+        "city_name": "Delhi",
+        "city": "1",
+        "state": "Delhi",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.collegepravesh.com%2Fengineering-colleges%2Fiiit-delhi%2F&psig=AOvVaw0FAXo7hFiBQal_p63weg-W&ust=1603691179235000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDA_YqFz-wCFQAAAAAdAAAAABAK",
+        "nirf": 56,
+        "upr": 70,
+        "cutoff": 5023,
+        "gender": "women",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "9",
+            "name": "Fashion Technology and Engineering",
+            "fees": "9 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "16",
+        "name": "Indira Gandhi Delhi Technical University for Women",
+        "city_name": "Delhi",
+        "city": "1",
+        "state": "Delhi",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.getmyuni.com%2Fcollege%2Findira-gandhi-delhi-technical-university-for-women-igit-courses-fees&psig=AOvVaw3biFerTJNXVlDjhdmBgb4d&ust=1603691211493000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPCTjZyFz-wCFQAAAAAdAAAAABAK",
+        "nirf": 145,
+        "upr": 87,
+        "cutoff": 5023,
+        "gender": "women",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "8",
+            "name": "Nano Technology",
+            "fees": "9 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "9",
+            "name": "Fashion Technology and Engineering",
+            "fees": "9 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "17",
+        "name": "National Institute of Technology",
+        "city_name": "Delhi",
+        "city": "1",
+        "state": "Delhi",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnit-delhi-national-institute-of-technology-delhi-narela-38584&psig=AOvVaw360gqZ7rGzO0ytLSl4wS5Y&ust=1603691269687000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJjRvLeFz-wCFQAAAAAdAAAAABAD",
+        "nirf": 45,
+        "upr": 61,
+        "cutoff": 7023,
+        "gender": "coed",
+        "ownership": "Government",
+        "branch":[
+            {
+                "branchtype": "1",
+                "name": "Computer Science And Engineering",
+                "fees": "10 Lakhs"
+            },
+            {
+                "branchtype": "2",
+                "name": "Mechanical Engineering",
+                "fees": "8 Lakhs"
+            },
+            {
+                "branchtype": "4",
+                "name": "Civil Engineering",
+                "fees": "10 Lakhs"
+            },
+            {
+                "branchtype": "3",
+                "name": "Electrical Engineering",
+                "fees": "8 Lakhs"
+            },
+            {
+                "branchtype": "5",
+                "name": "Aerospace Engineering",
+                "fees": "10 Lakhs"
+            },
+            {
+                "branchtype": "6",
+                "name": "Chemical Engineering",
+                "fees": "10 Lakhs"
+            }
+        ]
+    },
+    {
+        "_id": "18",
+        "name": "Maulana Azad National Institute of Technology",
+        "city_name": "Bhopal",
+        "city": "12",
+        "state": "Madhya Pradesh",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.collegepravesh.com%2Fengineering-colleges%2Fnit-bhopal%2F&psig=AOvVaw1nxewBR7queDQ54nMsOqbc&ust=1603691297308000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJCDpcOFz-wCFQAAAAAdAAAAABAD",
+        "nirf": 65,
+        "upr": 81,
+        "cutoff": 6230,
+        "gender": "coed",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "11 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "7",
+            "name": "Chemical Engineering",
+            "fees": "11 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "19",
+        "name": "Indian Institute of Information Technology Design and Manufacturing",
+        "city_name": "Jabalpur",
+        "city": "13",
+        "state": "Madhya Pradesh",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.getmyuni.com%2Fcollege%2Findian-institute-of-information-technology-design-and-manufacturing-iiitdm-jabalpur&psig=AOvVaw20UwognzQW9aFGXsbtJrAj&ust=1603691332847000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPiFytOFz-wCFQAAAAAdAAAAABAK",
+        "nirf": 81,
+        "upr": 108,
+        "cutoff": 10230,
+        "gender": "coed",
+        "ownership": "Government",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "10 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "11 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "7",
+            "name": "Chemical Engineering",
+            "fees": "11 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "20",
+        "name": "Avantika University",
+        "city_name": "Ujjain",
+        "city": "14",
+        "state": "Madhya Pradesh",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fwww.avantikauniversity.edu.in%2F&psig=AOvVaw0pwlqDXODfhHDB_bpFID9E&ust=1603691366992000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDS5uOFz-wCFQAAAAAdAAAAABAD",
+        "nirf": 217,
+        "upr": 390,
+        "cutoff": 59525,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "18 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "15 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "12 Lakhs"
+        },
+        {
+            "branchtype": "7",
+            "name": "Chemical Engineering",
+            "fees": "8 Lakhs"
+        }
+        ]
+    },
+    {
+        "_id": "21",
+        "name": "ITM University",
+        "city_name": "Gwalior",
+        "city": "15",
+        "state": "Madhya Pradesh",
+        "thumb": "https://www.google.co.in/url?sa=i&url=https%3A%2F%2Fcollegedunia.com%2Funiversity%2F25668-itm-university-gwalior%2Fcourses-fees&psig=AOvVaw2ZVP-FmupxWbT356Y24wj9&ust=1603691390091000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPC5n_OFz-wCFQAAAAAdAAAAABAD",
+        "nirf": 210,
+        "upr": 351,
+        "cutoff": 39525,
+        "gender": "coed",
+        "ownership": "Private",
+        "branch":[
+        {
+            "branchtype": "1",
+            "name": "Computer Science And Engineering",
+            "fees": "16 Lakhs"
+        },
+        {
+            "branchtype": "2",
+            "name": "Mechanical Engineering",
+            "fees": "16 Lakhs"
+        },
+        {
+            "branchtype": "3",
+            "name": "Electrical Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "4",
+            "name": "Civil Engineering",
+            "fees": "11 Lakhs"
+        },
+        {
+            "branchtype": "5",
+            "name": "Aerospace Engineering",
+            "fees": "13 Lakhs"
+        },
+        {
+            "branchtype": "7",
+            "name": "Chemical Engineering",
+            "fees": "12 Lakhs"
+        }
+        ]
+    }
+])

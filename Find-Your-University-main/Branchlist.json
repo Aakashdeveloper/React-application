@@ -1,0 +1,47 @@
+db.branch.insertMany([
+    {
+        "_id":1,
+        "branchtype": "1",
+        "name": "Computer Science And Engineering"
+    },
+    {
+        "_id":2,
+        "branchtype": "2",
+        "name": "Mechanical Engineering"
+    },
+    {
+        "_id":3,
+        "branchtype": "3",
+        "name": "Electrical Engineering"
+    },
+    {
+        "_id":4,
+        "branchtype": "4",
+        "name": "Civil Engineering"
+    },
+    {
+        "_id":5,
+        "branchtype": "5",
+        "name": "Aerospace Engineering"
+    },
+    {
+        "_id":6,
+        "branchtype": "6",
+        "name": "Biotechnology Engineering"
+    },
+    {
+        "_id":7,
+        "branchtype": "7",
+        "name": "Chemical Engineering"
+    },
+    {
+        "_id":8,
+        "branchtype": "8",
+        "name": "Nano Technology"
+    },
+    {
+        "_id":9,
+        "branchtype": "9",
+        "name": "Fashion Technology and Engineering"
+    }
+])
